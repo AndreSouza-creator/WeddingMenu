@@ -4,14 +4,17 @@
 }
 
 .App {
-  background-color: #fffcf4;
+  background-color: #FFF8E1;
   padding: 15px;
+  padding-top: 125%;
   font-family: Constantia;
   text-align: center;
   background-image: url("./img/us.jpg");
-  background-size: cover;
-  background-position: center;
-  color: white;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: top;
+  color: rgb(43, 43, 43);
+  font-size: 1rem;
 }
 
 .logo {
@@ -20,7 +23,8 @@
 }
 
 h1 {
-  color: #ffffff;
+  color: #d44a2b;;
+  backdrop-filter: blur(5px);
   font-weight: 500;
   font-size: 5rem;
   margin-bottom: 0px;
