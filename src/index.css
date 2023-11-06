@@ -1,6 +1,7 @@
 * {
   padding: 0;
   margin: 0;
+  font-family: url("./assets/Constantia.ttf");
 }
 
 .App {
@@ -29,7 +30,7 @@ h1 {
   font-size: 5rem;
   margin-bottom: 0px;
   margin-top: 2%;
-  font-family: Respective;
+  font-family: url("./assets/Respective.ttf");
 }
 
 h2 {
