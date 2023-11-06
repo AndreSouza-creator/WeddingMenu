@@ -5,12 +5,12 @@
 
 @font-face {
   font-family: 'Constantia';
-  src: local('Constantia'), url(./assets/Constantia/Constantia.ttf) format('truetype');
+  src: local('Constantia'), url(./fonts/Constantia/Constantia.ttf) format('truetype');
 }
 
 @font-face {
   font-family: 'Respective';
-  src: local('Respective'), url(./assets/Respective/Respective.ttf) format('truetype');
+  src: local('Respective'), url(./fonts/Respective/Respective.ttf) format('truetype');
 }
 
 
